@@ -1,0 +1,16 @@
+ipykernel
+numpy
+pandas
+scikit-learn
+kagglehub
+matplotlib
+seaborn
+python-dotenv
+langchain-community
+langchain-openai
+langchain-chroma
+transformers
+streamlit
+gradio
+notebook
+ipywidgets
