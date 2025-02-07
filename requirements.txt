@@ -12,6 +12,5 @@ langchain-huggingface
 langchain-chroma
 transformers
 streamlit
-gradio
 notebook
 ipywidgets
